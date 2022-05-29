@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Elizabeth Hmames!",
+      "description": "👋 I'm Elizabeth Hammes! I am studying to be a full stack software developer and I am currently focused on HTML/CSS, JavaScript, and React. I have over 10 years of professional experience with roles in consulting, product management, and account management - primarily in ecommerce within the tech industry. Most recently I worked in customer success for an ecommerce SaaS startup managing 10 customers totaling about $2.5 million in annual recurring revenue. I've led B2B and B2C enterprise ecommerce implementations and managed discussions with stakeholders to capture business and technical requirements. I have experience working with development teams using agile methodologies and owned requirements to create user stories, plan development sprints, conduct testing, and provide sprint demos and training. I have a passion for technology to build superior products while providing best in class user experiences. I value hard work, attention to detail, team collaboration, and making data-driven decisions.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,36 +11,70 @@
     },
     "projects": [
       {
-        "title": "Project Placeholder",
-        "startDate": "2020",
-        "description": "Description goes here!",
+        "title": "Memory Match Game",
+        "startDate": "2022",
+        "description": "Built a memory matching game that allows a player to click on cards to make matches of images within a time limit.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/memory-match/game.jpeg",
+          "images/portfolio/memory-match/highscores.jpeg",
+          "images/portfolio/memory-match/home.jpeg"
         ],
-        "url": "",
+        "url": "https://codefellows-code-201-group-project.github.io/memory-game",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "Project Placeholder",
-        "startDate": "2018",
-        "description": "Description goes here!",
+        "title": "City Explorer",
+        "startDate": "2022",
+        "description": "301 class project that allows a user to search city information that includes coordinates, weather, and related movies",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/city-explorer/cityexplorer.jpeg",
+          "images/portfolio/city-explorer/1.jpeg"
+        ],
+        "url": "https://sunny-salmiakki-14b682.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "301 Project Placeholder",
+        "startDate": "2022",
+        "description": "**Will insert 301 project details here",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -49,69 +83,41 @@
             "name": "React"
           },
           {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
+          },
+          {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Project Placeholder",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "03.2022 - 08.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Full-Stack JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MongoDB",
+          "APIs",
+          "HTML",
+          "CSS"
         ]
       }
     ]

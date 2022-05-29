@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Elizabeth Hammes' Portfolio
 
-Make it your own! 
+View my portfolio [here](https://elizabeth-hammes.netlify.app/)!
